@@ -215,4 +215,4 @@ Mp3tag is the full free version with all features and updates included. Enjoy co
 Unlock the full potential of your music library with Mp3tag! Download now and start organizing your audio files effortlessly.
 
 ---
-**Last updated:** 2026-09-20 20:04:54 UTC
+**Last updated:** 2026-09-20 22:50:37 UTC
